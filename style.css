@@ -1,0 +1,14 @@
+h3{
+  margin-top:0;
+  margin-bottom:10px;
+}
+
+.book-details-cont{
+  display:flex;
+  background:#eee;
+  padding:10px;
+  margin-bottom:10px;
+}
+.book-cover{
+  margin-right:10px
+}
